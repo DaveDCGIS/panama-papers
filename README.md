@@ -5,7 +5,7 @@ Team Members - Anders Pedersen, Abiy Kifle, Chris Marokov, Niraj Sheth
 
 Hypothesis
 
-The purpose of this project is to apply and engage in an exploratory effort to gain insight
+The purpose of this project is to engage in an exploratory effort to gain insight
 into the Panama Paper data. The database contains multiple structured csv files courtesy of
 the International Consortium of Investigative Journalists (ICIJ).
 
